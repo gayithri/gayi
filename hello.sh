@@ -1,3 +1,3 @@
 echo 'helooooooooooooo'
-cd  '/home/gayithri/testdir/Test'
+cd  '/home/gayithri/testdir/current'
 rails s
