@@ -1,5 +1,6 @@
 echo 'helooooooooooooo'
-#cd  '/home/gayithri/testdir/current'
+cd  '/home/gayithri/'
 echo "11111111"
-rails s
+#rails s
+sh hello.sh
 echo "222222222"
